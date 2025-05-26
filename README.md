@@ -1,7 +1,7 @@
 ## Introduction
 
 
-<b>Discipline | <b> Chemical Engineering Lab 
+<b>Discipline | <b> Chemical Engineering 
 :--|:--|
 <b> Lab | <b> Chemical Engineering Lab 
 <b> Experiment|     <b> Calorimetry Using Bomb Clorimeter
